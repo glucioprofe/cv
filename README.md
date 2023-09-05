@@ -4,7 +4,7 @@ Este proyecto en una página de hoja de vida desarrollada utilizando Bootstrap 5
 
 ## Contenido
 
-La página invluye
+La página incluye
 
 - Datos Personales
 - Formación Académica
@@ -16,5 +16,7 @@ La página invluye
 ![Captura de  Pantalla - PC](/images/pc.png)
 ![Captura de  Pantalla - Tablet](/images/tablet.png)
 ![Captura de  Pantalla - Móvil](/images/movil.png)
+
+Enlace Youtube: 
 
 Autor: glucio
