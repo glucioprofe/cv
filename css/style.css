@@ -1,0 +1,7 @@
+aside > img {
+    width: 100%;
+}
+aside > h4 {
+    text-transform: uppercase;
+    font-size: 2rem;
+}
